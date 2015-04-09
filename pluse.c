@@ -8,6 +8,7 @@ int main()
    scanf("%d%d%v",&a,&b,&v);
  
    c = a + b + v;
+   c-=3;
    
  
    printf("Sum of entered numbers = %d\n",c);
