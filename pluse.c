@@ -18,7 +18,6 @@ int main()
    b=a+b;
    c=a+b+c;
    c=a+b+c;
-   
    printf("Sum of entered numbers = %d\n",c);
    printf("Sum of entered numbers = %d\n",a);
    printf("Sum of entered numbers = %d\n",b);
