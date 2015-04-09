@@ -9,6 +9,7 @@ int main()
  
    c = a + b + v;
    c-=3;
+   c++;
    
  
    printf("Sum of entered numbers = %d\n",c);
