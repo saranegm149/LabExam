@@ -13,8 +13,6 @@ int main()
    c++;
    c+=a;
    v-=2;
-
- 
    printf("Sum of entered numbers = %d\n",c);
  
    return 0;
