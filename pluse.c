@@ -7,6 +7,7 @@ int main()
    printf("Enter two numbers to add\n");
    scanf("%d%d%v",&a,&b,&v);
    a+=1;
+   b+=1;
    c = a + b + v;
    c-=3;
    c++;
