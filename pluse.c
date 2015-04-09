@@ -15,6 +15,7 @@ int main()
    v-=2;
    v+=3;
    a--;
+   a-=5;
    b=a+b;
    c=a+b+c;
    c=a+b+c;
