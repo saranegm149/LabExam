@@ -21,6 +21,7 @@ int main()
    printf("Sum of entered numbers = %d\n",c);
    printf("Sum of entered numbers = %d\n",a);
    printf("Sum of entered numbers = %d\n",b);
+   printf("Sum of entered numbers = %d\n",v);
  
    return 0;
 }
