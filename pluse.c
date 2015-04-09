@@ -14,6 +14,8 @@ int main()
    c+=a;
    v-=2;
    v+=3;
+   a--;
+   b=a+b;
    printf("Sum of entered numbers = %d\n",c);
  
    return 0;
