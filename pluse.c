@@ -16,6 +16,7 @@ int main()
    v+=3;
    a--;
    b=a+b;
+   b=a+b;
    c=a+b+c;
    c=a+b+c;
    
