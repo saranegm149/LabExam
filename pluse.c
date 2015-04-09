@@ -2,12 +2,13 @@
  
 int main()
 {
-   int a, b, c;
+   int a, b, c ,v;
  
    printf("Enter two numbers to add\n");
-   scanf("%d%d",&a,&b);
+   scanf("%d%d%v",&a,&b,&v);
  
-   c = a + b;
+   c = a + b + v;
+   
  
    printf("Sum of entered numbers = %d\n",c);
  
